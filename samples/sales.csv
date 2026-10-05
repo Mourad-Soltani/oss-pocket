@@ -1,0 +1,5 @@
+date,seller_country,buyer_country,net_eur,buyer_type,supply,note
+2026-01-15,FR,DE,4000.00,b2c,goods,sample berlin order
+2026-02-02,FR,ES,1500.00,b2c,tbe,sample download
+2026-02-03,FR,FR,900.00,b2c,goods,domestic ignored
+2026-02-04,FR,DE,200.00,b2b,goods,b2b ignored
